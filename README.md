@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/data-cleanup-sprint.html
 - Live free preview: https://jaxassistant55.github.io/data-cleanup-sprint-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/data-cleanup-sprint-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/csv-cleaner-lite.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/3
 - Price: $125
