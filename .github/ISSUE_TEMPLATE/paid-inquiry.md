@@ -5,6 +5,11 @@ title: "Paid inquiry: data cleanup sprint"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-data-cleanup-sprint.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/data-cleanup-sprint-starter/inquiry.html
+
 ## Buyer Request
 
 - File type and approximate row count:
