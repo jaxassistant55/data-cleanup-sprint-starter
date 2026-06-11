@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/data-cleanup-sprint.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-data-cleanup-sprint.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/data-cleanup-sprint-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/data-cleanup-sprint-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/data-cleanup-sprint-starter/issues/1
